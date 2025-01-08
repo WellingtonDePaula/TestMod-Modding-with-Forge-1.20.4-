@@ -8,6 +8,7 @@
 
   "block.testmod.sapphire_block": "Block of Sapphire",
   "block.testmod.raw_sapphire_block": "Block of Raw Sapphire",
+  "block.testmod.sound_block": "Block of Sound",
 
   "block.testmod.sapphire_ore": "Sapphire ore",
   "block.testmod.nether_sapphire_ore": "Nether Sapphire ore",
