@@ -1,0 +1,7 @@
+Java Launcher: C:\Users\astro\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.13.11-hotspot\bin\java.exe
+Arguments: '--inJar, C:\Users\astro\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.20.4-49.1.23\forge-1.20.4-49.1.23-injected.jar, --outJar, C:\Users\astro\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.20.4-49.1.23_mapped_parchment_2024.04.14-1.20.4\forge-1.20.4-49.1.23_mapped_parchment_2024.04.14-1.20.4.jar, --logFile, accesstransform.log, --atFile, C:\Users\astro\Desktop\My Mods\ExampleMod\build\_atJar_4\parent_at.cfg'
+Classpath:
+ - C:\Users\astro\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\accesstransformers\8.2.1\accesstransformers-8.2.1-fatjar.jar
+Working directory: C:\Users\astro\Desktop\My Mods\ExampleMod\build\_atJar_4
+Main class: net.minecraftforge.accesstransformer.TransformerProcessor
+====================================

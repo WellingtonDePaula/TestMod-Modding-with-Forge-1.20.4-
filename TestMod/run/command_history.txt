@@ -1,0 +1,11 @@
+/tp 100 100 100
+/time set day
+/tp 100 200 100
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/time set dayt
+/time set day
+/gamerule doDaylightCycle false
+/gamemode survival

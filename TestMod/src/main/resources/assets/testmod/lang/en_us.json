@@ -1,0 +1,23 @@
+{
+  "item.testmod.ash": "Ash",
+  "item.testmod.ash_ingot": "Ash Ingot",
+  "item.testmod.ash_pile": "Ash Pile",
+  "item.testmod.sapphire": "Sapphire",
+  "item.testmod.raw_sapphire": "Raw Sapphire",
+
+
+
+  "block.testmod.cum_block": "Block of Cum",
+  "block.testmod.ash_block": "Block of Ash",
+
+  "block.testmod.sapphire_block": "Block of Sapphire",
+  "block.testmod.raw_sapphire_block": "Block of Raw Sapphire",
+
+  "block.testmod.sapphire_ore": "Sapphire ore",
+  "block.testmod.nether_sapphire_ore": "Nether Sapphire ore",
+  "block.testmod.deepslate_sapphire_ore": "Deepslate Sapphire ore",
+  "block.testmod.end_stone_sapphire_ore": "End Stone Sapphire ore",
+
+
+  "creativetab.test_tab": "TestMod :)"
+}

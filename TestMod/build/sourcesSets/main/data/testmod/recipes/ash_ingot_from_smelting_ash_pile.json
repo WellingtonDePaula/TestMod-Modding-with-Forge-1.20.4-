@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "ash_ingot",
+  "ingredient": {
+    "item": "testmod:ash_pile"
+  },
+  "result": "testmod:ash_ingot"
+}
