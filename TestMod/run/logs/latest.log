@@ -1,50 +1,50 @@
-[07jan.2025 22:11:39.809] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_userdev_client, --version, MOD_DEV, --assetIndex, 12, --assetsDir, C:\Users\astro\.gradle\caches\forge_gradle\assets, --gameDir, .]
-[07jan.2025 22:11:39.811] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Eclipse Adoptium OpenJDK 64-Bit Server VM 17.0.13+11
-[07jan.2025 22:11:39.813] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.1.2 starting: java version 17.0.13 by Eclipse Adoptium; OS Windows 11 arch amd64 version 10.0
-[07jan.2025 22:11:39.941] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: Loading ImmediateWindowProvider fmlearlywindow
-[07jan.2025 22:11:40.108] [main/INFO] [EARLYDISPLAY/]: Trying GL version 4.6
-[07jan.2025 22:11:40.738] [main/INFO] [EARLYDISPLAY/]: Requested GL version 4.6 got version 4.6
-[07jan.2025 22:11:40.953] [EarlyDisplay/INFO] [EARLYDISPLAY/]: GL info: Intel(R) UHD Graphics GL version 4.6.0 - Build 30.0.101.1273, Intel
-[07jan.2025 22:11:40.954] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=jar:file:///C:/Users/astro/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar!/ Service=ModLauncher Env=CLIENT
-[07jan.2025 22:11:42.301] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[07jan.2025 22:11:43.571] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_userdev_client' with arguments [--version, MOD_DEV, --gameDir, ., --assetsDir, C:\Users\astro\.gradle\caches\forge_gradle\assets, --assetIndex, 12]
-[07jan.2025 22:11:44.357] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties]
-[07jan.2025 22:11:44.638] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties]
-[07jan.2025 22:11:49.618] [Datafixer Bootstrap/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 198 Datafixer optimizations took 253 milliseconds
-[07jan.2025 22:11:51.990] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/astro/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.4-49.1.23_mapped_parchment_2024.04.14-1.20.4/forge-1.20.4-49.1.23_mapped_parchment_2024.04.14-1.20.4.jar%230!/assets/.mcassetsroot' uses unexpected schema
-[07jan.2025 22:11:51.991] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/astro/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.4-49.1.23_mapped_parchment_2024.04.14-1.20.4/forge-1.20.4-49.1.23_mapped_parchment_2024.04.14-1.20.4.jar%230!/data/.mcassetsroot' uses unexpected schema
-[07jan.2025 22:11:52.030] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[07jan.2025 22:11:52.041] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: Dev
-[07jan.2025 22:11:52.308] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.3.2+13
-[07jan.2025 22:11:52.715] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 49.1.23, for MC 1.20.4 with MCP 20231207.112700
-[07jan.2025 22:11:52.718] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v49.1.23 Initialized
-[07jan.2025 22:11:52.792] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[07jan.2025 22:11:53.945] [Render thread/INFO] [net.minecraftforge.gametest.ForgeGameTestHooks/]: Enabled Gametest Namespaces: [testmod]
-[07jan.2025 22:11:54.248] [Render thread/INFO] [net.minecraft.server.packs.resources.ReloadableResourceManager/]: Reloading ResourceManager: vanilla, mod_resources
-[07jan.2025 22:11:54.416] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[07jan.2025 22:11:54.423] [Worker-Main-4/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_all_no_pua-15.1.04.hex, loading
-[07jan.2025 22:11:55.529] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 49.1.23 Target: null
-[07jan.2025 22:11:59.049] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:item.goat_horn.play
-[07jan.2025 22:11:59.049] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
-[07jan.2025 22:11:59.050] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:entity.generic.wind_burst
-[07jan.2025 22:11:59.148] [Render thread/INFO] [com.mojang.blaze3d.audio.Library/]: OpenAL initialized on device OpenAL Soft on Fones de ouvido (QCY-T13)
-[07jan.2025 22:11:59.149] [Render thread/INFO] [net.minecraft.client.sounds.SoundEngine/SOUNDS]: Sound engine started
-[07jan.2025 22:11:59.276] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
-[07jan.2025 22:11:59.343] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
-[07jan.2025 22:11:59.344] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
-[07jan.2025 22:11:59.346] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
-[07jan.2025 22:11:59.348] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
-[07jan.2025 22:11:59.363] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
-[07jan.2025 22:11:59.364] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
-[07jan.2025 22:11:59.364] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
-[07jan.2025 22:11:59.365] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
-[07jan.2025 22:12:00.146] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
-[07jan.2025 22:12:00.712] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
-[07jan.2025 22:12:00.721] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
-[07jan.2025 22:12:00.722] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
-[07jan.2025 22:12:00.724] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
-[07jan.2025 22:12:01.008] [IO-Worker-1/INFO] [com.mojang.realmsclient.client.RealmsClient/]: Could not authorize you against Realms server: Invalid session id
-[07jan.2025 22:12:01.009] [IO-Worker-1/ERROR] [com.mojang.realmsclient.RealmsAvailability/]: Couldn't connect to realms
+[08jan.2025 14:18:04.928] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_userdev_client, --version, MOD_DEV, --assetIndex, 12, --assetsDir, C:\Users\astro\.gradle\caches\forge_gradle\assets, --gameDir, .]
+[08jan.2025 14:18:04.930] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Eclipse Adoptium OpenJDK 64-Bit Server VM 17.0.13+11
+[08jan.2025 14:18:04.932] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.1.2 starting: java version 17.0.13 by Eclipse Adoptium; OS Windows 11 arch amd64 version 10.0
+[08jan.2025 14:18:05.071] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: Loading ImmediateWindowProvider fmlearlywindow
+[08jan.2025 14:18:05.218] [main/INFO] [EARLYDISPLAY/]: Trying GL version 4.6
+[08jan.2025 14:18:06.169] [main/INFO] [EARLYDISPLAY/]: Requested GL version 4.6 got version 4.6
+[08jan.2025 14:18:06.361] [EarlyDisplay/INFO] [EARLYDISPLAY/]: GL info: Intel(R) UHD Graphics GL version 4.6.0 - Build 30.0.101.1273, Intel
+[08jan.2025 14:18:06.396] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=jar:file:///C:/Users/astro/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar!/ Service=ModLauncher Env=CLIENT
+[08jan.2025 14:18:07.605] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[08jan.2025 14:18:08.925] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_userdev_client' with arguments [--version, MOD_DEV, --gameDir, ., --assetsDir, C:\Users\astro\.gradle\caches\forge_gradle\assets, --assetIndex, 12]
+[08jan.2025 14:18:09.651] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties]
+[08jan.2025 14:18:09.916] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/C:/Users/astro/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties]
+[08jan.2025 14:18:14.775] [Datafixer Bootstrap/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 198 Datafixer optimizations took 227 milliseconds
+[08jan.2025 14:18:17.198] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/astro/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.4-49.1.23_mapped_parchment_2024.04.14-1.20.4/forge-1.20.4-49.1.23_mapped_parchment_2024.04.14-1.20.4.jar%230!/assets/.mcassetsroot' uses unexpected schema
+[08jan.2025 14:18:17.199] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/astro/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.4-49.1.23_mapped_parchment_2024.04.14-1.20.4/forge-1.20.4-49.1.23_mapped_parchment_2024.04.14-1.20.4.jar%230!/data/.mcassetsroot' uses unexpected schema
+[08jan.2025 14:18:17.239] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[08jan.2025 14:18:17.251] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: Dev
+[08jan.2025 14:18:17.426] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.3.2+13
+[08jan.2025 14:18:17.783] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 49.1.23, for MC 1.20.4 with MCP 20231207.112700
+[08jan.2025 14:18:17.787] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v49.1.23 Initialized
+[08jan.2025 14:18:17.865] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[08jan.2025 14:18:18.975] [Render thread/INFO] [net.minecraftforge.gametest.ForgeGameTestHooks/]: Enabled Gametest Namespaces: [testmod]
+[08jan.2025 14:18:19.264] [Render thread/INFO] [net.minecraft.server.packs.resources.ReloadableResourceManager/]: Reloading ResourceManager: vanilla, mod_resources
+[08jan.2025 14:18:19.420] [Worker-Main-6/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_all_no_pua-15.1.04.hex, loading
+[08jan.2025 14:18:19.436] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[08jan.2025 14:18:20.495] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 49.1.23 Target: null
+[08jan.2025 14:18:24.219] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:item.goat_horn.play
+[08jan.2025 14:18:24.219] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[08jan.2025 14:18:24.220] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:entity.generic.wind_burst
+[08jan.2025 14:18:25.064] [Render thread/INFO] [com.mojang.blaze3d.audio.Library/]: OpenAL initialized on device OpenAL Soft on Fones de ouvido (Realtek(R) Audio)
+[08jan.2025 14:18:25.065] [Render thread/INFO] [net.minecraft.client.sounds.SoundEngine/SOUNDS]: Sound engine started
+[08jan.2025 14:18:25.189] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[08jan.2025 14:18:25.249] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[08jan.2025 14:18:25.250] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[08jan.2025 14:18:25.252] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[08jan.2025 14:18:25.253] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[08jan.2025 14:18:25.268] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[08jan.2025 14:18:25.269] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[08jan.2025 14:18:25.270] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[08jan.2025 14:18:25.271] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[08jan.2025 14:18:25.986] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[08jan.2025 14:18:26.539] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[08jan.2025 14:18:26.550] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[08jan.2025 14:18:26.551] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[08jan.2025 14:18:26.552] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[08jan.2025 14:18:26.870] [IO-Worker-1/INFO] [com.mojang.realmsclient.client.RealmsClient/]: Could not authorize you against Realms server: Invalid session id
+[08jan.2025 14:18:26.871] [IO-Worker-1/ERROR] [com.mojang.realmsclient.RealmsAvailability/]: Couldn't connect to realms
 com.mojang.realmsclient.exception.RealmsServiceException: Realms authentication error with message 'Invalid session id'
 	at com.mojang.realmsclient.client.RealmsClient.execute(RealmsClient.java:447) ~[forge-1.20.4-49.1.23_mapped_parchment_2024.04.14-1.20.4.jar%230!/:?]
 	at com.mojang.realmsclient.client.RealmsClient.clientCompatible(RealmsClient.java:232) ~[forge-1.20.4-49.1.23_mapped_parchment_2024.04.14-1.20.4.jar%230!/:?]
@@ -53,47 +53,886 @@ com.mojang.realmsclient.exception.RealmsServiceException: Realms authentication 
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[07jan.2025 22:12:06.646] [Render thread/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: Injecting existing registry data into this CLIENT instance
-[07jan.2025 22:12:08.677] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[07jan.2025 22:12:08.944] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1271 advancements
-[07jan.2025 22:12:09.478] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Starting integrated minecraft server version 1.20.4
-[07jan.2025 22:12:09.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[07jan.2025 22:12:12.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[07jan.2025 22:12:15.967] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07jan.2025 22:12:16.023] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07jan.2025 22:12:16.062] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07jan.2025 22:12:16.080] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07jan.2025 22:12:16.098] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07jan.2025 22:12:16.116] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07jan.2025 22:12:16.134] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07jan.2025 22:12:16.152] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07jan.2025 22:12:16.287] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07jan.2025 22:12:16.796] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
-[07jan.2025 22:12:17.295] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 69%
-[07jan.2025 22:12:17.474] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[07jan.2025 22:12:17.478] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5197 ms
-[07jan.2025 22:12:17.618] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing view distance to 12, from 10
-[07jan.2025 22:12:17.618] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing simulation distance to 12, from 0
-[07jan.2025 22:12:18.285] [Render thread/INFO] [net.minecraftforge.common.ForgeHooks/]: Connected to a modded server.
-[07jan.2025 22:12:18.395] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dev[local:E:a41dd14f] logged in with entity id 106 at (80.92969991251807, 119.02442408821369, 61.933979718708216)
-[07jan.2025 22:12:18.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev joined the game
-[07jan.2025 22:12:18.897] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 19 advancements
-[07jan.2025 22:12:22.436] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[07jan.2025 22:13:42.025] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
-[07jan.2025 22:13:42.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[testes]'/minecraft:overworld
-[07jan.2025 22:13:42.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[testes]'/minecraft:the_end
-[07jan.2025 22:13:42.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[testes]'/minecraft:the_nether
-[07jan.2025 22:13:44.684] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dev lost connection: Disconnected
-[07jan.2025 22:13:44.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev left the game
-[07jan.2025 22:13:44.716] [Server thread/INFO] [net.minecraft.server.network.ServerCommonPacketListenerImpl/]: Stopping singleplayer server as player logged out
-[07jan.2025 22:13:44.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[07jan.2025 22:13:44.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[07jan.2025 22:13:44.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[07jan.2025 22:13:45.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[testes]'/minecraft:overworld
-[07jan.2025 22:13:45.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[testes]'/minecraft:the_end
-[07jan.2025 22:13:45.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[testes]'/minecraft:the_nether
-[07jan.2025 22:13:45.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (testes): All chunks are saved
-[07jan.2025 22:13:45.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[07jan.2025 22:13:45.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07jan.2025 22:13:45.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[07jan.2025 22:13:47.691] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
+[08jan.2025 14:18:32.517] [Render thread/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: Injecting existing registry data into this CLIENT instance
+[08jan.2025 14:18:34.516] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[08jan.2025 14:18:34.764] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1271 advancements
+[08jan.2025 14:18:35.252] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Starting integrated minecraft server version 1.20.4
+[08jan.2025 14:18:35.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[08jan.2025 14:18:37.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[08jan.2025 14:18:41.757] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08jan.2025 14:18:41.757] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08jan.2025 14:18:41.812] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08jan.2025 14:18:41.812] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08jan.2025 14:18:41.812] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08jan.2025 14:18:41.831] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08jan.2025 14:18:41.831] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08jan.2025 14:18:41.831] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08jan.2025 14:18:41.831] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08jan.2025 14:18:42.283] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
+[08jan.2025 14:18:42.776] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[08jan.2025 14:18:42.881] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[08jan.2025 14:18:42.887] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5122 ms
+[08jan.2025 14:18:43.053] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing view distance to 12, from 10
+[08jan.2025 14:18:43.054] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing simulation distance to 12, from 0
+[08jan.2025 14:18:43.878] [Render thread/INFO] [net.minecraftforge.common.ForgeHooks/]: Connected to a modded server.
+[08jan.2025 14:18:44.024] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dev[local:E:f6fa1f03] logged in with entity id 108 at (57.30000001192093, 119.86045477989016, 48.30000001192093)
+[08jan.2025 14:18:44.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev joined the game
+[08jan.2025 14:18:44.512] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 19 advancements
+[08jan.2025 14:18:49.394] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (56, 69, 47)
+[08jan.2025 14:18:49.405] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (56, 68, 47)
+[08jan.2025 14:18:49.407] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (56, 67, 47)
+[08jan.2025 14:18:49.407] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (56, 44, 47)
+[08jan.2025 14:18:49.407] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (56, 43, 47)
+[08jan.2025 14:18:49.408] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (56, 11, 47)
+[08jan.2025 14:18:52.190] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (65, 95, 47)
+[08jan.2025 14:18:52.190] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (65, 94, 47)
+[08jan.2025 14:18:53.028] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (67, 94, 39)
+[08jan.2025 14:18:53.029] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (67, 93, 39)
+[08jan.2025 14:18:53.724] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (69, 75, 34)
+[08jan.2025 14:18:53.725] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (69, 74, 34)
+[08jan.2025 14:18:53.725] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (69, 67, 34)
+[08jan.2025 14:18:53.726] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (69, 66, 34)
+[08jan.2025 14:18:53.727] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (69, 53, 34)
+[08jan.2025 14:18:53.727] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (69, 7, 34)
+[08jan.2025 14:18:54.358] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (71, 55, 29)
+[08jan.2025 14:18:54.358] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (71, 54, 29)
+[08jan.2025 14:18:54.359] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (71, 53, 29)
+[08jan.2025 14:18:55.267] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Diamond Ore at (71, -12, 21)
+[08jan.2025 14:19:03.881] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Saved screenshot as 2025-01-08_14.19.03.png
+[08jan.2025 14:19:23.782] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[08jan.2025 14:19:23.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[testes]'/minecraft:overworld
+[08jan.2025 14:19:23.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[testes]'/minecraft:the_end
+[08jan.2025 14:19:23.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[testes]'/minecraft:the_nether
+[08jan.2025 14:19:41.182] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[08jan.2025 14:19:41.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[testes]'/minecraft:overworld
+[08jan.2025 14:19:41.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[testes]'/minecraft:the_end
+[08jan.2025 14:19:41.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[testes]'/minecraft:the_nether
+[08jan.2025 14:19:48.732] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[08jan.2025 14:19:48.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[testes]'/minecraft:overworld
+[08jan.2025 14:19:48.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[testes]'/minecraft:the_end
+[08jan.2025 14:19:48.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[testes]'/minecraft:the_nether
+[08jan.2025 14:20:23.715] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (92, 56, 67)
+[08jan.2025 14:20:26.169] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] No valuables Found!
+[08jan.2025 14:20:28.667] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Emerald Ore at (89, 100, 63)
+[08jan.2025 14:20:28.667] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (89, 47, 63)
+[08jan.2025 14:20:28.667] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (89, 46, 63)
+[08jan.2025 14:20:30.527] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (88, 100, 60)
+[08jan.2025 14:20:30.527] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (88, 99, 60)
+[08jan.2025 14:20:31.421] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (86, 51, 57)
+[08jan.2025 14:20:31.421] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (86, 50, 57)
+[08jan.2025 14:20:31.422] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (86, 49, 57)
+[08jan.2025 14:20:31.422] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (86, 48, 57)
+[08jan.2025 14:20:31.621] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (86, 51, 57)
+[08jan.2025 14:20:31.621] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (86, 50, 57)
+[08jan.2025 14:20:31.621] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (86, 49, 57)
+[08jan.2025 14:20:31.621] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (86, 48, 57)
+[08jan.2025 14:20:31.817] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (86, 50, 56)
+[08jan.2025 14:20:31.818] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (86, 49, 56)
+[08jan.2025 14:20:31.818] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Lapis Lazuli Ore at (86, -15, 56)
+[08jan.2025 14:20:32.025] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (85, 22, 54)
+[08jan.2025 14:20:32.025] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (85, 21, 54)
+[08jan.2025 14:20:32.224] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (85, 107, 52)
+[08jan.2025 14:20:32.224] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (85, 106, 52)
+[08jan.2025 14:20:32.224] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (85, 105, 52)
+[08jan.2025 14:20:32.225] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (85, 91, 52)
+[08jan.2025 14:20:32.225] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (85, 42, 52)
+[08jan.2025 14:20:32.225] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (85, 41, 52)
+[08jan.2025 14:20:32.225] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (85, 23, 52)
+[08jan.2025 14:20:32.225] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (85, 22, 52)
+[08jan.2025 14:20:32.225] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (85, 21, 52)
+[08jan.2025 14:20:32.423] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (84, 91, 51)
+[08jan.2025 14:20:32.423] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (84, 42, 51)
+[08jan.2025 14:20:32.423] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (84, 23, 51)
+[08jan.2025 14:20:32.423] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (84, 22, 51)
+[08jan.2025 14:20:32.424] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (84, 21, 51)
+[08jan.2025 14:20:32.424] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Diamond Ore at (84, -17, 51)
+[08jan.2025 14:20:32.424] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Diamond Ore at (84, -60, 51)
+[08jan.2025 14:20:32.424] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Diamond Ore at (84, -61, 51)
+[08jan.2025 14:20:32.629] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (84, 91, 51)
+[08jan.2025 14:20:32.629] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (84, 42, 51)
+[08jan.2025 14:20:32.629] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (84, 23, 51)
+[08jan.2025 14:20:32.630] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (84, 22, 51)
+[08jan.2025 14:20:32.630] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (84, 21, 51)
+[08jan.2025 14:20:32.630] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Diamond Ore at (84, -17, 51)
+[08jan.2025 14:20:32.630] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Diamond Ore at (84, -60, 51)
+[08jan.2025 14:20:32.631] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Diamond Ore at (84, -61, 51)
+[08jan.2025 14:20:32.818] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (84, 23, 50)
+[08jan.2025 14:20:32.819] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (84, 22, 50)
+[08jan.2025 14:20:32.819] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Diamond Ore at (84, -16, 50)
+[08jan.2025 14:20:32.819] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Diamond Ore at (84, -17, 50)
+[08jan.2025 14:20:32.820] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Diamond Ore at (84, -60, 50)
+[08jan.2025 14:20:33.016] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (84, 47, 49)
+[08jan.2025 14:20:33.016] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (84, 46, 49)
+[08jan.2025 14:20:33.018] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (84, 23, 49)
+[08jan.2025 14:20:33.018] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (84, 22, 49)
+[08jan.2025 14:20:33.215] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (83, 96, 47)
+[08jan.2025 14:20:33.215] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (83, 95, 47)
+[08jan.2025 14:20:33.215] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (83, 94, 47)
+[08jan.2025 14:20:33.215] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (83, 86, 47)
+[08jan.2025 14:20:33.215] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (83, 48, 47)
+[08jan.2025 14:20:33.215] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (83, 47, 47)
+[08jan.2025 14:20:33.417] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (83, 96, 46)
+[08jan.2025 14:20:33.417] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (83, 95, 46)
+[08jan.2025 14:20:33.417] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (83, 94, 46)
+[08jan.2025 14:20:33.418] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (83, 87, 46)
+[08jan.2025 14:20:33.418] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (83, 86, 46)
+[08jan.2025 14:20:33.418] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (83, 85, 46)
+[08jan.2025 14:20:33.635] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (82, 57, 44)
+[08jan.2025 14:20:33.636] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (82, 56, 44)
+[08jan.2025 14:20:33.636] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (82, 55, 44)
+[08jan.2025 14:20:33.636] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Redstone Ore at (82, -59, 44)
+[08jan.2025 14:20:33.833] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (82, 57, 42)
+[08jan.2025 14:20:33.833] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (82, 56, 42)
+[08jan.2025 14:20:33.833] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (82, 55, 42)
+[08jan.2025 14:20:33.834] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Iron Ore at (82, -25, 42)
+[08jan.2025 14:20:33.834] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Iron Ore at (82, -26, 42)
+[08jan.2025 14:20:34.019] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (81, 110, 41)
+[08jan.2025 14:20:34.019] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (81, 109, 41)
+[08jan.2025 14:20:34.019] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (81, 57, 41)
+[08jan.2025 14:20:34.019] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (81, 56, 41)
+[08jan.2025 14:20:34.019] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Iron Ore at (81, -25, 41)
+[08jan.2025 14:20:37.072] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (81, 85, 39)
+[08jan.2025 14:20:37.073] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (81, 84, 39)
+[08jan.2025 14:20:37.073] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (81, 83, 39)
+[08jan.2025 14:20:37.216] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (81, 85, 39)
+[08jan.2025 14:20:37.216] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (81, 84, 39)
+[08jan.2025 14:20:37.217] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (81, 83, 39)
+[08jan.2025 14:20:37.267] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (81, 85, 38)
+[08jan.2025 14:20:37.268] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (81, 84, 38)
+[08jan.2025 14:20:37.268] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (81, 83, 38)
+[08jan.2025 14:20:37.268] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (81, 53, 38)
+[08jan.2025 14:20:37.268] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (81, 52, 38)
+[08jan.2025 14:20:37.315] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (81, 85, 38)
+[08jan.2025 14:20:37.316] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (81, 84, 38)
+[08jan.2025 14:20:37.316] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (81, 83, 38)
+[08jan.2025 14:20:37.316] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (81, 53, 38)
+[08jan.2025 14:20:37.316] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (81, 52, 38)
+[08jan.2025 14:20:37.421] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (81, 85, 38)
+[08jan.2025 14:20:37.422] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (81, 84, 38)
+[08jan.2025 14:20:37.422] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (81, 83, 38)
+[08jan.2025 14:20:37.422] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (81, 53, 38)
+[08jan.2025 14:20:37.422] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (81, 52, 38)
+[08jan.2025 14:20:37.569] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (81, 85, 38)
+[08jan.2025 14:20:37.569] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (81, 84, 38)
+[08jan.2025 14:20:37.569] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (81, 83, 38)
+[08jan.2025 14:20:37.571] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (81, 53, 38)
+[08jan.2025 14:20:37.571] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (81, 52, 38)
+[08jan.2025 14:20:37.632] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (80, 84, 37)
+[08jan.2025 14:20:37.633] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (80, 53, 37)
+[08jan.2025 14:20:37.633] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (80, 52, 37)
+[08jan.2025 14:20:37.633] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (80, 51, 37)
+[08jan.2025 14:20:37.734] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (80, 54, 36)
+[08jan.2025 14:20:37.734] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (80, 53, 36)
+[08jan.2025 14:20:37.734] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (80, 52, 36)
+[08jan.2025 14:20:37.735] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (80, 51, 36)
+[08jan.2025 14:20:37.836] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (80, 52, 35)
+[08jan.2025 14:20:37.836] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (80, 51, 35)
+[08jan.2025 14:20:37.877] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (80, 52, 35)
+[08jan.2025 14:20:37.877] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (80, 51, 35)
+[08jan.2025 14:20:37.983] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Redstone Ore at (80, 7, 34)
+[08jan.2025 14:20:38.075] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (80, 114, 32)
+[08jan.2025 14:20:38.075] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (80, 113, 32)
+[08jan.2025 14:20:38.076] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Emerald Ore at (80, 95, 32)
+[08jan.2025 14:20:38.076] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (80, 72, 32)
+[08jan.2025 14:20:38.076] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (80, 71, 32)
+[08jan.2025 14:20:38.076] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (80, 47, 32)
+[08jan.2025 14:20:38.076] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (80, 46, 32)
+[08jan.2025 14:20:38.076] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (80, 13, 32)
+[08jan.2025 14:20:38.168] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (80, 114, 31)
+[08jan.2025 14:20:38.168] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (80, 113, 31)
+[08jan.2025 14:20:38.168] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (80, 112, 31)
+[08jan.2025 14:20:38.168] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (80, 103, 31)
+[08jan.2025 14:20:38.168] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (80, 102, 31)
+[08jan.2025 14:20:38.168] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (80, 47, 31)
+[08jan.2025 14:20:38.169] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (80, 46, 31)
+[08jan.2025 14:20:38.375] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (80, 113, 29)
+[08jan.2025 14:20:38.375] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (80, 112, 29)
+[08jan.2025 14:20:38.375] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (80, 48, 29)
+[08jan.2025 14:20:38.375] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (80, 47, 29)
+[08jan.2025 14:20:38.375] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Redstone Ore at (80, -50, 29)
+[08jan.2025 14:20:38.376] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Redstone Ore at (80, -51, 29)
+[08jan.2025 14:20:38.580] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (80, 113, 29)
+[08jan.2025 14:20:38.580] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (80, 112, 29)
+[08jan.2025 14:20:38.580] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (80, 48, 29)
+[08jan.2025 14:20:38.581] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (80, 47, 29)
+[08jan.2025 14:20:38.581] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Redstone Ore at (80, -50, 29)
+[08jan.2025 14:20:38.581] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Redstone Ore at (80, -51, 29)
+[08jan.2025 14:20:38.728] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] No valuables Found!
+[08jan.2025 14:20:38.856] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (80, 51, 25)
+[08jan.2025 14:20:38.856] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (80, 50, 25)
+[08jan.2025 14:20:38.856] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Iron Ore at (80, -40, 25)
+[08jan.2025 14:20:38.991] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] No valuables Found!
+[08jan.2025 14:20:39.040] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (79, 108, 23)
+[08jan.2025 14:20:39.041] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (79, 107, 23)
+[08jan.2025 14:20:39.256] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (79, 108, 21)
+[08jan.2025 14:20:39.256] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (79, 107, 21)
+[08jan.2025 14:20:39.257] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (79, 94, 21)
+[08jan.2025 14:20:39.257] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (79, 93, 21)
+[08jan.2025 14:20:39.257] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (79, 92, 21)
+[08jan.2025 14:20:39.257] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (79, 47, 21)
+[08jan.2025 14:20:39.257] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (79, 46, 21)
+[08jan.2025 14:20:39.257] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (79, 45, 21)
+[08jan.2025 14:20:39.258] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (79, 44, 21)
+[08jan.2025 14:20:39.258] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Redstone Ore at (79, -31, 21)
+[08jan.2025 14:20:39.336] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (79, 46, 19)
+[08jan.2025 14:20:39.336] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (79, 45, 19)
+[08jan.2025 14:20:39.336] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Lapis Lazuli Ore at (79, 10, 19)
+[08jan.2025 14:20:39.337] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Lapis Lazuli Ore at (79, 9, 19)
+[08jan.2025 14:20:39.337] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Redstone Ore at (79, -49, 19)
+[08jan.2025 14:20:39.890] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (79, 116, 13)
+[08jan.2025 14:20:39.890] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (79, 21, 13)
+[08jan.2025 14:20:39.996] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (79, 116, 13)
+[08jan.2025 14:20:39.997] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (79, 21, 13)
+[08jan.2025 14:20:40.135] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (78, 116, 12)
+[08jan.2025 14:20:40.135] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (78, 115, 12)
+[08jan.2025 14:20:40.135] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (78, 89, 12)
+[08jan.2025 14:20:40.136] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (78, 21, 12)
+[08jan.2025 14:20:40.136] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (78, 14, 12)
+[08jan.2025 14:20:40.137] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (78, 13, 12)
+[08jan.2025 14:20:40.241] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (77, 21, 11)
+[08jan.2025 14:20:40.241] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (77, 14, 11)
+[08jan.2025 14:20:40.241] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (77, 13, 11)
+[08jan.2025 14:20:40.383] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] No valuables Found!
+[08jan.2025 14:20:40.600] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (74, 119, 10)
+[08jan.2025 14:20:40.600] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (74, 47, 10)
+[08jan.2025 14:20:40.600] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (74, 46, 10)
+[08jan.2025 14:20:40.815] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (72, 84, 11)
+[08jan.2025 14:20:40.815] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (72, 83, 11)
+[08jan.2025 14:20:40.964] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (72, 84, 11)
+[08jan.2025 14:20:40.964] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (72, 83, 11)
+[08jan.2025 14:20:41.127] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (70, 84, 11)
+[08jan.2025 14:20:41.349] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (69, 67, 10)
+[08jan.2025 14:20:41.350] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (69, 66, 10)
+[08jan.2025 14:20:41.350] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (69, 51, 10)
+[08jan.2025 14:20:41.350] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (69, 50, 10)
+[08jan.2025 14:20:41.350] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Iron Ore at (69, -26, 10)
+[08jan.2025 14:20:41.351] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Redstone Ore at (69, -34, 10)
+[08jan.2025 14:20:41.351] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Redstone Ore at (69, -35, 10)
+[08jan.2025 14:20:41.352] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Redstone Ore at (69, -58, 10)
+[08jan.2025 14:20:41.419] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (68, 67, 10)
+[08jan.2025 14:20:41.419] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (68, 66, 10)
+[08jan.2025 14:20:41.419] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (68, 57, 10)
+[08jan.2025 14:20:41.419] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (68, 56, 10)
+[08jan.2025 14:20:41.420] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Redstone Ore at (68, -34, 10)
+[08jan.2025 14:20:41.420] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Redstone Ore at (68, -35, 10)
+[08jan.2025 14:20:41.500] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (67, 67, 9)
+[08jan.2025 14:20:41.501] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (67, 66, 9)
+[08jan.2025 14:20:41.501] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (67, 57, 9)
+[08jan.2025 14:20:41.501] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (67, 56, 9)
+[08jan.2025 14:20:41.501] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (67, 29, 9)
+[08jan.2025 14:20:41.502] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (67, 28, 9)
+[08jan.2025 14:20:41.553] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (67, 67, 9)
+[08jan.2025 14:20:41.554] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (67, 66, 9)
+[08jan.2025 14:20:41.554] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (67, 57, 9)
+[08jan.2025 14:20:41.554] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (67, 56, 9)
+[08jan.2025 14:20:41.554] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (67, 29, 9)
+[08jan.2025 14:20:41.555] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (67, 28, 9)
+[08jan.2025 14:20:41.608] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (67, 67, 9)
+[08jan.2025 14:20:41.608] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (67, 66, 9)
+[08jan.2025 14:20:41.609] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (67, 57, 9)
+[08jan.2025 14:20:41.609] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (67, 56, 9)
+[08jan.2025 14:20:41.609] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (67, 29, 9)
+[08jan.2025 14:20:41.609] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (67, 28, 9)
+[08jan.2025 14:20:41.748] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (66, 67, 9)
+[08jan.2025 14:20:41.749] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (66, 66, 9)
+[08jan.2025 14:20:41.749] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (66, 29, 9)
+[08jan.2025 14:20:41.749] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (66, 28, 9)
+[08jan.2025 14:20:41.851] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] No valuables Found!
+[08jan.2025 14:20:41.977] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (63, 60, 9)
+[08jan.2025 14:20:41.978] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (63, 59, 9)
+[08jan.2025 14:20:42.070] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (63, 60, 9)
+[08jan.2025 14:20:42.070] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (63, 59, 9)
+[08jan.2025 14:20:42.172] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (62, 60, 9)
+[08jan.2025 14:20:42.173] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (62, 59, 9)
+[08jan.2025 14:20:42.396] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (60, 31, 10)
+[08jan.2025 14:20:42.397] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (60, 30, 10)
+[08jan.2025 14:20:42.442] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (60, 31, 10)
+[08jan.2025 14:20:42.442] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (60, 30, 10)
+[08jan.2025 14:20:42.545] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] No valuables Found!
+[08jan.2025 14:20:42.682] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (57, 106, 10)
+[08jan.2025 14:20:42.683] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (57, 70, 10)
+[08jan.2025 14:20:42.683] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (57, 69, 10)
+[08jan.2025 14:20:42.793] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (58, 52, 9)
+[08jan.2025 14:20:42.794] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (58, 51, 9)
+[08jan.2025 14:20:42.925] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (58, 52, 9)
+[08jan.2025 14:20:42.926] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (58, 51, 9)
+[08jan.2025 14:20:43.034] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (57, 47, 8)
+[08jan.2025 14:20:43.035] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (57, 46, 8)
+[08jan.2025 14:20:43.035] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (57, 10, 8)
+[08jan.2025 14:20:43.138] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (57, 47, 8)
+[08jan.2025 14:20:43.138] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (57, 46, 8)
+[08jan.2025 14:20:43.138] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (57, 10, 8)
+[08jan.2025 14:20:43.273] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] No valuables Found!
+[08jan.2025 14:20:43.374] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (57, 60, 5)
+[08jan.2025 14:20:43.374] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (57, 59, 5)
+[08jan.2025 14:20:43.620] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (56, 57, 4)
+[08jan.2025 14:20:43.621] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (56, 56, 4)
+[08jan.2025 14:20:43.621] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Lapis Lazuli Ore at (56, -31, 4)
+[08jan.2025 14:20:43.621] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Lapis Lazuli Ore at (56, -32, 4)
+[08jan.2025 14:20:43.686] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (56, 57, 4)
+[08jan.2025 14:20:43.686] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (56, 56, 4)
+[08jan.2025 14:20:43.686] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Lapis Lazuli Ore at (56, -31, 4)
+[08jan.2025 14:20:43.686] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Lapis Lazuli Ore at (56, -32, 4)
+[08jan.2025 14:20:43.728] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (55, 118, 3)
+[08jan.2025 14:20:43.728] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (55, 117, 3)
+[08jan.2025 14:20:43.729] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (55, 58, 3)
+[08jan.2025 14:20:43.729] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (55, 57, 3)
+[08jan.2025 14:20:43.729] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (55, 56, 3)
+[08jan.2025 14:20:43.729] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (55, 55, 3)
+[08jan.2025 14:20:43.729] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (55, 15, 3)
+[08jan.2025 14:20:43.729] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Lapis Lazuli Ore at (55, -30, 3)
+[08jan.2025 14:20:43.877] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (55, 118, 3)
+[08jan.2025 14:20:43.877] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (55, 117, 3)
+[08jan.2025 14:20:43.878] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (55, 58, 3)
+[08jan.2025 14:20:43.878] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (55, 57, 3)
+[08jan.2025 14:20:43.878] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (55, 56, 3)
+[08jan.2025 14:20:43.878] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (55, 55, 3)
+[08jan.2025 14:20:43.878] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (55, 15, 3)
+[08jan.2025 14:20:43.878] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Lapis Lazuli Ore at (55, -30, 3)
+[08jan.2025 14:20:44.126] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (53, 106, 2)
+[08jan.2025 14:20:44.127] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (53, 69, 2)
+[08jan.2025 14:20:44.318] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] No valuables Found!
+[08jan.2025 14:20:44.426] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] No valuables Found!
+[08jan.2025 14:20:44.580] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (49, 73, 2)
+[08jan.2025 14:20:44.580] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (49, 72, 2)
+[08jan.2025 14:20:44.580] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Lapis Lazuli Ore at (49, -16, 2)
+[08jan.2025 14:20:44.580] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Diamond Ore at (49, -22, 2)
+[08jan.2025 14:20:44.581] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (49, 73, 2)
+[08jan.2025 14:20:44.581] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (49, 72, 2)
+[08jan.2025 14:20:44.581] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Lapis Lazuli Ore at (49, -16, 2)
+[08jan.2025 14:20:44.582] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Diamond Ore at (49, -22, 2)
+[08jan.2025 14:20:44.671] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (49, 73, 1)
+[08jan.2025 14:20:44.672] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (49, 72, 1)
+[08jan.2025 14:20:44.672] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (49, 26, 1)
+[08jan.2025 14:20:44.672] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (49, 25, 1)
+[08jan.2025 14:20:44.769] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (49, 73, 1)
+[08jan.2025 14:20:44.770] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (49, 72, 1)
+[08jan.2025 14:20:44.770] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (49, 26, 1)
+[08jan.2025 14:20:44.770] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (49, 25, 1)
+[08jan.2025 14:20:44.918] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (49, 73, 1)
+[08jan.2025 14:20:44.918] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (49, 72, 1)
+[08jan.2025 14:20:44.918] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (49, 26, 1)
+[08jan.2025 14:20:44.918] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (49, 25, 1)
+[08jan.2025 14:20:45.019] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (49, 73, 1)
+[08jan.2025 14:20:45.019] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (49, 72, 1)
+[08jan.2025 14:20:45.019] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (49, 26, 1)
+[08jan.2025 14:20:45.019] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (49, 25, 1)
+[08jan.2025 14:20:45.120] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (49, 73, 0)
+[08jan.2025 14:20:45.120] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (49, 72, 0)
+[08jan.2025 14:20:45.120] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (49, 25, 0)
+[08jan.2025 14:20:45.120] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (49, 22, 0)
+[08jan.2025 14:20:45.217] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (49, 73, 0)
+[08jan.2025 14:20:45.217] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (49, 72, 0)
+[08jan.2025 14:20:45.217] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (49, 25, 0)
+[08jan.2025 14:20:45.217] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (49, 22, 0)
+[08jan.2025 14:20:45.319] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (49, 73, 0)
+[08jan.2025 14:20:45.320] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (49, 72, 0)
+[08jan.2025 14:20:45.320] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (49, 25, 0)
+[08jan.2025 14:20:45.320] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (49, 22, 0)
+[08jan.2025 14:20:45.468] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (49, 73, 0)
+[08jan.2025 14:20:45.468] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (49, 72, 0)
+[08jan.2025 14:20:45.468] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (49, 25, 0)
+[08jan.2025 14:20:45.468] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (49, 22, 0)
+[08jan.2025 14:20:45.718] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (49, 73, 1)
+[08jan.2025 14:20:45.718] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (49, 72, 1)
+[08jan.2025 14:20:45.718] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (49, 26, 1)
+[08jan.2025 14:20:45.719] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (49, 25, 1)
+[08jan.2025 14:20:45.719] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (49, 73, 1)
+[08jan.2025 14:20:45.719] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (49, 72, 1)
+[08jan.2025 14:20:45.719] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (49, 26, 1)
+[08jan.2025 14:20:45.719] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (49, 25, 1)
+[08jan.2025 14:20:45.771] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (49, 73, 1)
+[08jan.2025 14:20:45.771] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (49, 72, 1)
+[08jan.2025 14:20:45.771] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (49, 26, 1)
+[08jan.2025 14:20:45.771] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (49, 25, 1)
+[08jan.2025 14:20:45.920] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (49, 73, 1)
+[08jan.2025 14:20:45.920] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (49, 72, 1)
+[08jan.2025 14:20:45.920] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (49, 26, 1)
+[08jan.2025 14:20:45.920] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (49, 25, 1)
+[08jan.2025 14:20:46.022] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (49, 73, 1)
+[08jan.2025 14:20:46.022] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (49, 72, 1)
+[08jan.2025 14:20:46.022] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (49, 26, 1)
+[08jan.2025 14:20:46.022] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (49, 25, 1)
+[08jan.2025 14:20:46.115] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (49, 73, 1)
+[08jan.2025 14:20:46.116] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (49, 72, 1)
+[08jan.2025 14:20:46.116] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (49, 26, 1)
+[08jan.2025 14:20:46.116] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (49, 25, 1)
+[08jan.2025 14:20:46.321] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (49, 73, 1)
+[08jan.2025 14:20:46.322] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (49, 72, 1)
+[08jan.2025 14:20:46.322] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (49, 26, 1)
+[08jan.2025 14:20:46.322] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (49, 25, 1)
+[08jan.2025 14:20:46.425] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (49, 73, 2)
+[08jan.2025 14:20:46.426] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (49, 72, 2)
+[08jan.2025 14:20:46.426] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Lapis Lazuli Ore at (49, -16, 2)
+[08jan.2025 14:20:46.426] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Diamond Ore at (49, -22, 2)
+[08jan.2025 14:20:46.568] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] No valuables Found!
+[08jan.2025 14:20:46.625] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] No valuables Found!
+[08jan.2025 14:20:46.770] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] No valuables Found!
+[08jan.2025 14:20:46.815] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] No valuables Found!
+[08jan.2025 14:20:46.965] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] No valuables Found!
+[08jan.2025 14:20:47.070] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (50, 23, 3)
+[08jan.2025 14:20:47.071] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (50, 22, 3)
+[08jan.2025 14:20:47.220] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (50, 23, 3)
+[08jan.2025 14:20:47.221] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (50, 22, 3)
+[08jan.2025 14:20:47.420] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (50, 23, 3)
+[08jan.2025 14:20:47.420] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (50, 22, 3)
+[08jan.2025 14:20:47.671] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] No valuables Found!
+[08jan.2025 14:20:47.771] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] No valuables Found!
+[08jan.2025 14:20:47.869] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] No valuables Found!
+[08jan.2025 14:20:48.064] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] No valuables Found!
+[08jan.2025 14:20:48.169] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] No valuables Found!
+[08jan.2025 14:20:48.220] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] No valuables Found!
+[08jan.2025 14:20:48.369] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] No valuables Found!
+[08jan.2025 14:20:49.118] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] No valuables Found!
+[08jan.2025 14:20:49.365] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] No valuables Found!
+[08jan.2025 14:20:49.471] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Diamond Ore at (48, -10, 9)
+[08jan.2025 14:20:49.471] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Diamond Ore at (48, -11, 9)
+[08jan.2025 14:20:49.567] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Diamond Ore at (48, -10, 9)
+[08jan.2025 14:20:49.568] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Diamond Ore at (48, -11, 9)
+[08jan.2025 14:20:49.814] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (47, 50, 10)
+[08jan.2025 14:20:49.814] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (47, 49, 10)
+[08jan.2025 14:20:49.814] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (47, 48, 10)
+[08jan.2025 14:20:50.040] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (46, 50, 10)
+[08jan.2025 14:20:50.040] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (46, 49, 10)
+[08jan.2025 14:20:50.040] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (46, 48, 10)
+[08jan.2025 14:20:50.040] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (46, 15, 10)
+[08jan.2025 14:20:50.041] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (46, 14, 10)
+[08jan.2025 14:20:50.041] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (46, 13, 10)
+[08jan.2025 14:20:50.126] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (46, 50, 10)
+[08jan.2025 14:20:50.127] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (46, 49, 10)
+[08jan.2025 14:20:50.127] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (46, 48, 10)
+[08jan.2025 14:20:50.127] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (46, 15, 10)
+[08jan.2025 14:20:50.127] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (46, 14, 10)
+[08jan.2025 14:20:50.127] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (46, 13, 10)
+[08jan.2025 14:20:50.221] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (46, 50, 10)
+[08jan.2025 14:20:50.221] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (46, 49, 10)
+[08jan.2025 14:20:50.221] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (46, 48, 10)
+[08jan.2025 14:20:50.221] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (46, 15, 10)
+[08jan.2025 14:20:50.221] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (46, 14, 10)
+[08jan.2025 14:20:50.221] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (46, 13, 10)
+[08jan.2025 14:20:50.373] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (46, 50, 10)
+[08jan.2025 14:20:50.373] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (46, 49, 10)
+[08jan.2025 14:20:50.373] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (46, 48, 10)
+[08jan.2025 14:20:50.373] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (46, 15, 10)
+[08jan.2025 14:20:50.373] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (46, 14, 10)
+[08jan.2025 14:20:50.373] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (46, 13, 10)
+[08jan.2025 14:20:50.478] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (45, 34, 10)
+[08jan.2025 14:20:50.478] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (45, 15, 10)
+[08jan.2025 14:20:50.478] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (45, 14, 10)
+[08jan.2025 14:20:50.718] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (45, 85, 9)
+[08jan.2025 14:20:50.718] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (45, 84, 9)
+[08jan.2025 14:20:50.718] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (45, 51, 9)
+[08jan.2025 14:20:50.719] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (45, 50, 9)
+[08jan.2025 14:20:50.719] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (45, 34, 9)
+[08jan.2025 14:20:50.719] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (45, 33, 9)
+[08jan.2025 14:20:50.719] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (45, 14, 9)
+[08jan.2025 14:20:50.719] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (45, 13, 9)
+[08jan.2025 14:20:50.719] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (45, 12, 9)
+[08jan.2025 14:20:50.772] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (44, 86, 9)
+[08jan.2025 14:20:50.772] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (44, 85, 9)
+[08jan.2025 14:20:50.772] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (44, 71, 9)
+[08jan.2025 14:20:50.772] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (44, 70, 9)
+[08jan.2025 14:20:50.772] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (44, 50, 9)
+[08jan.2025 14:20:50.772] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (44, 49, 9)
+[08jan.2025 14:20:50.772] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (44, 34, 9)
+[08jan.2025 14:20:50.772] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (44, 14, 9)
+[08jan.2025 14:20:50.772] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (44, 13, 9)
+[08jan.2025 14:20:50.772] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (44, 12, 9)
+[08jan.2025 14:20:50.923] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (44, 86, 9)
+[08jan.2025 14:20:50.923] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (44, 85, 9)
+[08jan.2025 14:20:50.923] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (44, 71, 9)
+[08jan.2025 14:20:50.924] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (44, 70, 9)
+[08jan.2025 14:20:50.924] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (44, 50, 9)
+[08jan.2025 14:20:50.924] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (44, 49, 9)
+[08jan.2025 14:20:50.924] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (44, 34, 9)
+[08jan.2025 14:20:50.924] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (44, 14, 9)
+[08jan.2025 14:20:50.924] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (44, 13, 9)
+[08jan.2025 14:20:50.924] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (44, 12, 9)
+[08jan.2025 14:20:50.966] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (44, 86, 9)
+[08jan.2025 14:20:50.967] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (44, 85, 9)
+[08jan.2025 14:20:50.967] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (44, 71, 9)
+[08jan.2025 14:20:50.967] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (44, 70, 9)
+[08jan.2025 14:20:50.967] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (44, 50, 9)
+[08jan.2025 14:20:50.967] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (44, 49, 9)
+[08jan.2025 14:20:50.967] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (44, 34, 9)
+[08jan.2025 14:20:50.967] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (44, 14, 9)
+[08jan.2025 14:20:50.967] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (44, 13, 9)
+[08jan.2025 14:20:50.967] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (44, 12, 9)
+[08jan.2025 14:20:55.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Set own game mode to Survival Mode]
+[08jan.2025 14:20:55.586] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Set own game mode to Survival Mode
+[08jan.2025 14:20:58.722] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (39, 9, 3)
+[08jan.2025 14:20:58.723] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (39, 8, 3)
+[08jan.2025 14:21:01.962] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [Debug]: Advanced tooltips: shown
+[08jan.2025 14:21:04.967] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (37, 70, 0)
+[08jan.2025 14:21:04.967] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (37, 69, 0)
+[08jan.2025 14:21:04.967] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (37, 68, 0)
+[08jan.2025 14:21:04.968] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (37, 67, 0)
+[08jan.2025 14:21:04.968] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (37, 56, 0)
+[08jan.2025 14:21:04.968] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (37, 55, 0)
+[08jan.2025 14:21:06.180] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (38, 51, -5)
+[08jan.2025 14:21:06.180] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (38, 50, -5)
+[08jan.2025 14:21:06.181] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Lapis Lazuli Ore at (38, -14, -5)
+[08jan.2025 14:21:06.181] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Lapis Lazuli Ore at (38, -15, -5)
+[08jan.2025 14:21:07.375] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (34, 47, -10)
+[08jan.2025 14:21:07.375] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (34, 46, -10)
+[08jan.2025 14:21:08.840] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[08jan.2025 14:21:08.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[testes]'/minecraft:overworld
+[08jan.2025 14:21:08.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[testes]'/minecraft:the_end
+[08jan.2025 14:21:08.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[testes]'/minecraft:the_nether
+[08jan.2025 14:21:13.603] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing view distance to 8, from 12
+[08jan.2025 14:21:13.608] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing simulation distance to 8, from 12
+[08jan.2025 14:21:16.393] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] No valuables Found!
+[08jan.2025 14:21:17.395] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (25, 59, -16)
+[08jan.2025 14:21:17.396] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (25, 58, -16)
+[08jan.2025 14:21:17.792] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (24, 59, -15)
+[08jan.2025 14:21:17.792] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (24, 58, -15)
+[08jan.2025 14:21:17.993] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (24, 59, -15)
+[08jan.2025 14:21:17.993] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (24, 58, -15)
+[08jan.2025 14:21:18.197] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (23, 66, -14)
+[08jan.2025 14:21:18.197] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (23, 65, -14)
+[08jan.2025 14:21:18.197] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (23, 45, -14)
+[08jan.2025 14:21:18.197] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (23, 41, -14)
+[08jan.2025 14:21:18.390] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (22, 67, -13)
+[08jan.2025 14:21:18.390] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (22, 66, -13)
+[08jan.2025 14:21:18.391] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (22, 65, -13)
+[08jan.2025 14:21:18.391] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (22, 47, -13)
+[08jan.2025 14:21:18.391] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (22, 45, -13)
+[08jan.2025 14:21:18.491] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (22, 67, -13)
+[08jan.2025 14:21:18.491] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (22, 66, -13)
+[08jan.2025 14:21:18.491] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (22, 65, -13)
+[08jan.2025 14:21:18.491] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (22, 47, -13)
+[08jan.2025 14:21:18.491] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (22, 45, -13)
+[08jan.2025 14:21:18.695] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (22, 67, -13)
+[08jan.2025 14:21:18.695] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (22, 66, -13)
+[08jan.2025 14:21:18.695] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (22, 65, -13)
+[08jan.2025 14:21:18.695] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (22, 47, -13)
+[08jan.2025 14:21:18.695] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (22, 45, -13)
+[08jan.2025 14:21:18.796] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (22, 67, -13)
+[08jan.2025 14:21:18.796] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (22, 66, -13)
+[08jan.2025 14:21:18.796] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (22, 65, -13)
+[08jan.2025 14:21:18.797] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (22, 47, -13)
+[08jan.2025 14:21:18.797] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (22, 45, -13)
+[08jan.2025 14:21:18.891] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (22, 67, -13)
+[08jan.2025 14:21:18.892] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (22, 66, -13)
+[08jan.2025 14:21:18.892] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (22, 65, -13)
+[08jan.2025 14:21:18.892] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (22, 47, -13)
+[08jan.2025 14:21:18.892] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (22, 45, -13)
+[08jan.2025 14:21:18.993] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (21, 67, -12)
+[08jan.2025 14:21:18.993] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (21, 66, -12)
+[08jan.2025 14:21:18.993] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (21, 65, -12)
+[08jan.2025 14:21:18.994] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (21, 46, -12)
+[08jan.2025 14:21:19.095] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (20, 67, -12)
+[08jan.2025 14:21:19.095] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (20, 66, -12)
+[08jan.2025 14:21:19.095] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Gold Ore at (20, -63, -12)
+[08jan.2025 14:21:19.291] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (20, 67, -12)
+[08jan.2025 14:21:19.291] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (20, 66, -12)
+[08jan.2025 14:21:19.291] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Gold Ore at (20, -63, -12)
+[08jan.2025 14:21:19.394] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (20, 67, -12)
+[08jan.2025 14:21:19.394] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (20, 66, -12)
+[08jan.2025 14:21:19.395] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Gold Ore at (20, -63, -12)
+[08jan.2025 14:21:19.445] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (20, 67, -12)
+[08jan.2025 14:21:19.445] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (20, 66, -12)
+[08jan.2025 14:21:19.445] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Gold Ore at (20, -63, -12)
+[08jan.2025 14:21:19.494] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (20, 67, -12)
+[08jan.2025 14:21:19.495] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (20, 66, -12)
+[08jan.2025 14:21:19.495] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Gold Ore at (20, -63, -12)
+[08jan.2025 14:21:19.596] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (20, 67, -12)
+[08jan.2025 14:21:19.596] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (20, 66, -12)
+[08jan.2025 14:21:19.596] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Gold Ore at (20, -63, -12)
+[08jan.2025 14:21:19.741] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (20, 67, -12)
+[08jan.2025 14:21:19.742] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (20, 66, -12)
+[08jan.2025 14:21:19.742] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Gold Ore at (20, -63, -12)
+[08jan.2025 14:21:19.945] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (20, 67, -12)
+[08jan.2025 14:21:19.945] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (20, 66, -12)
+[08jan.2025 14:21:19.945] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Gold Ore at (20, -63, -12)
+[08jan.2025 14:21:20.045] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (20, 67, -12)
+[08jan.2025 14:21:20.045] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (20, 66, -12)
+[08jan.2025 14:21:20.045] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Gold Ore at (20, -63, -12)
+[08jan.2025 14:21:20.147] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (20, 67, -12)
+[08jan.2025 14:21:20.147] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (20, 66, -12)
+[08jan.2025 14:21:20.147] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Gold Ore at (20, -63, -12)
+[08jan.2025 14:21:20.358] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (20, 67, -12)
+[08jan.2025 14:21:20.359] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (20, 66, -12)
+[08jan.2025 14:21:20.359] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Gold Ore at (20, -63, -12)
+[08jan.2025 14:21:20.447] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (20, 67, -12)
+[08jan.2025 14:21:20.447] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (20, 66, -12)
+[08jan.2025 14:21:20.448] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Gold Ore at (20, -63, -12)
+[08jan.2025 14:21:20.598] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (20, 67, -12)
+[08jan.2025 14:21:20.598] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (20, 66, -12)
+[08jan.2025 14:21:20.598] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Gold Ore at (20, -63, -12)
+[08jan.2025 14:21:20.701] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (20, 67, -12)
+[08jan.2025 14:21:20.701] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (20, 66, -12)
+[08jan.2025 14:21:20.701] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Gold Ore at (20, -63, -12)
+[08jan.2025 14:21:20.794] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (20, 67, -12)
+[08jan.2025 14:21:20.794] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (20, 66, -12)
+[08jan.2025 14:21:20.794] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Gold Ore at (20, -63, -12)
+[08jan.2025 14:21:20.896] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (20, 67, -12)
+[08jan.2025 14:21:20.896] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (20, 66, -12)
+[08jan.2025 14:21:20.896] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Gold Ore at (20, -63, -12)
+[08jan.2025 14:21:20.997] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (20, 67, -12)
+[08jan.2025 14:21:20.997] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (20, 66, -12)
+[08jan.2025 14:21:20.997] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Gold Ore at (20, -63, -12)
+[08jan.2025 14:21:21.090] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (20, 67, -12)
+[08jan.2025 14:21:21.091] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (20, 66, -12)
+[08jan.2025 14:21:21.091] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Gold Ore at (20, -63, -12)
+[08jan.2025 14:21:22.794] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (25, 21, -1)
+[08jan.2025 14:21:22.795] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (25, 20, -1)
+[08jan.2025 14:21:25.282] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[08jan.2025 14:21:25.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[testes]'/minecraft:overworld
+[08jan.2025 14:21:25.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[testes]'/minecraft:the_end
+[08jan.2025 14:21:25.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[testes]'/minecraft:the_nether
+[08jan.2025 14:21:43.937] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Lapis Lazuli Ore at (42, -7, 22)
+[08jan.2025 14:21:43.937] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Lapis Lazuli Ore at (42, -8, 22)
+[08jan.2025 14:21:44.536] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (44, 89, 24)
+[08jan.2025 14:21:44.536] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (44, 88, 24)
+[08jan.2025 14:21:44.536] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Emerald Ore at (44, 78, 24)
+[08jan.2025 14:21:44.536] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (44, 7, 24)
+[08jan.2025 14:21:44.536] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (44, 6, 24)
+[08jan.2025 14:21:44.788] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (45, 89, 25)
+[08jan.2025 14:21:44.788] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (45, 88, 25)
+[08jan.2025 14:21:44.788] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (45, 87, 25)
+[08jan.2025 14:21:44.788] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Emerald Ore at (45, 79, 25)
+[08jan.2025 14:21:44.880] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (45, 89, 25)
+[08jan.2025 14:21:44.880] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (45, 88, 25)
+[08jan.2025 14:21:44.880] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (45, 87, 25)
+[08jan.2025 14:21:44.880] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Emerald Ore at (45, 79, 25)
+[08jan.2025 14:21:44.992] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (47, 76, 25)
+[08jan.2025 14:21:44.992] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (47, 75, 25)
+[08jan.2025 14:21:45.138] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (48, 76, 26)
+[08jan.2025 14:21:45.139] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (48, 75, 26)
+[08jan.2025 14:21:45.139] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (48, 61, 26)
+[08jan.2025 14:21:45.237] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (48, 76, 26)
+[08jan.2025 14:21:45.238] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (48, 75, 26)
+[08jan.2025 14:21:45.238] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (48, 61, 26)
+[08jan.2025 14:21:45.331] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (49, 42, 26)
+[08jan.2025 14:21:45.332] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (49, 41, 26)
+[08jan.2025 14:21:45.434] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (49, 42, 26)
+[08jan.2025 14:21:45.434] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (49, 41, 26)
+[08jan.2025 14:21:45.704] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (51, 102, 27)
+[08jan.2025 14:21:45.705] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (51, 101, 27)
+[08jan.2025 14:21:45.705] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (51, 100, 27)
+[08jan.2025 14:21:45.705] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (51, 43, 27)
+[08jan.2025 14:21:45.707] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (51, 42, 27)
+[08jan.2025 14:21:45.707] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (51, 41, 27)
+[08jan.2025 14:21:45.707] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Lapis Lazuli Ore at (51, -11, 27)
+[08jan.2025 14:21:45.739] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (51, 102, 27)
+[08jan.2025 14:21:45.740] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (51, 101, 27)
+[08jan.2025 14:21:45.740] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (51, 100, 27)
+[08jan.2025 14:21:45.740] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (51, 43, 27)
+[08jan.2025 14:21:45.740] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (51, 42, 27)
+[08jan.2025 14:21:45.741] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (51, 41, 27)
+[08jan.2025 14:21:45.741] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Lapis Lazuli Ore at (51, -11, 27)
+[08jan.2025 14:21:45.836] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (52, 101, 28)
+[08jan.2025 14:21:45.837] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (52, 43, 28)
+[08jan.2025 14:21:45.837] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (52, 42, 28)
+[08jan.2025 14:21:45.837] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Redstone Ore at (52, 13, 28)
+[08jan.2025 14:21:45.944] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (52, 101, 28)
+[08jan.2025 14:21:45.946] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (52, 43, 28)
+[08jan.2025 14:21:45.946] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (52, 42, 28)
+[08jan.2025 14:21:45.947] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Redstone Ore at (52, 13, 28)
+[08jan.2025 14:21:46.085] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (52, 101, 28)
+[08jan.2025 14:21:46.085] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (52, 43, 28)
+[08jan.2025 14:21:46.085] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (52, 42, 28)
+[08jan.2025 14:21:46.085] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Redstone Ore at (52, 13, 28)
+[08jan.2025 14:21:46.337] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] No valuables Found!
+[08jan.2025 14:21:46.532] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (56, 100, 30)
+[08jan.2025 14:21:46.532] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (56, 99, 30)
+[08jan.2025 14:21:46.532] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (56, 59, 30)
+[08jan.2025 14:21:46.533] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (56, 58, 30)
+[08jan.2025 14:21:46.533] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (56, 57, 30)
+[08jan.2025 14:21:46.533] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Lapis Lazuli Ore at (56, 31, 30)
+[08jan.2025 14:21:46.533] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Lapis Lazuli Ore at (56, 30, 30)
+[08jan.2025 14:21:46.533] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Diamond Ore at (56, -30, 30)
+[08jan.2025 14:21:46.533] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Diamond Ore at (56, -31, 30)
+[08jan.2025 14:21:46.633] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (57, 100, 30)
+[08jan.2025 14:21:46.633] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (57, 99, 30)
+[08jan.2025 14:21:46.633] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (57, 59, 30)
+[08jan.2025 14:21:46.633] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (57, 58, 30)
+[08jan.2025 14:21:46.634] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (57, 57, 30)
+[08jan.2025 14:21:46.634] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Lapis Lazuli Ore at (57, 31, 30)
+[08jan.2025 14:21:46.634] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Lapis Lazuli Ore at (57, 30, 30)
+[08jan.2025 14:21:46.837] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (57, 100, 30)
+[08jan.2025 14:21:46.838] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (57, 99, 30)
+[08jan.2025 14:21:46.838] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (57, 59, 30)
+[08jan.2025 14:21:46.838] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (57, 58, 30)
+[08jan.2025 14:21:46.839] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (57, 57, 30)
+[08jan.2025 14:21:46.839] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Lapis Lazuli Ore at (57, 31, 30)
+[08jan.2025 14:21:46.839] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Lapis Lazuli Ore at (57, 30, 30)
+[08jan.2025 14:21:46.980] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (58, 60, 31)
+[08jan.2025 14:21:46.981] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (58, 59, 31)
+[08jan.2025 14:21:46.981] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (58, 58, 31)
+[08jan.2025 14:21:46.981] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (58, 57, 31)
+[08jan.2025 14:21:46.981] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (58, 42, 31)
+[08jan.2025 14:21:46.981] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (58, 41, 31)
+[08jan.2025 14:21:46.981] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Gold Ore at (58, -44, 31)
+[08jan.2025 14:21:46.981] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Gold Ore at (58, -45, 31)
+[08jan.2025 14:21:47.080] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (59, 79, 32)
+[08jan.2025 14:21:47.081] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (59, 78, 32)
+[08jan.2025 14:21:47.081] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (59, 76, 32)
+[08jan.2025 14:21:47.081] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (59, 75, 32)
+[08jan.2025 14:21:47.081] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (59, 74, 32)
+[08jan.2025 14:21:47.081] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (59, 60, 32)
+[08jan.2025 14:21:47.081] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (59, 59, 32)
+[08jan.2025 14:21:47.081] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (59, 58, 32)
+[08jan.2025 14:21:47.081] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (59, 42, 32)
+[08jan.2025 14:21:47.081] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (59, 41, 32)
+[08jan.2025 14:21:47.232] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (60, 89, 32)
+[08jan.2025 14:21:47.233] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (60, 88, 32)
+[08jan.2025 14:21:47.233] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (60, 79, 32)
+[08jan.2025 14:21:47.233] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (60, 78, 32)
+[08jan.2025 14:21:47.233] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (60, 76, 32)
+[08jan.2025 14:21:47.233] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (60, 75, 32)
+[08jan.2025 14:21:47.233] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (60, 74, 32)
+[08jan.2025 14:21:47.233] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (60, 61, 32)
+[08jan.2025 14:21:47.233] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (60, 60, 32)
+[08jan.2025 14:21:47.233] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (60, 59, 32)
+[08jan.2025 14:21:47.445] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (60, 89, 32)
+[08jan.2025 14:21:47.445] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (60, 88, 32)
+[08jan.2025 14:21:47.446] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (60, 79, 32)
+[08jan.2025 14:21:47.446] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (60, 78, 32)
+[08jan.2025 14:21:47.446] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (60, 76, 32)
+[08jan.2025 14:21:47.446] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (60, 75, 32)
+[08jan.2025 14:21:47.446] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (60, 74, 32)
+[08jan.2025 14:21:47.446] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (60, 61, 32)
+[08jan.2025 14:21:47.447] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (60, 60, 32)
+[08jan.2025 14:21:47.447] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (60, 59, 32)
+[08jan.2025 14:21:47.705] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] No valuables Found!
+[08jan.2025 14:21:47.888] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (64, 51, 36)
+[08jan.2025 14:21:47.888] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (64, 50, 36)
+[08jan.2025 14:21:47.889] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Diamond Ore at (64, 7, 36)
+[08jan.2025 14:21:48.138] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (64, 51, 36)
+[08jan.2025 14:21:48.138] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (64, 50, 36)
+[08jan.2025 14:21:48.138] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Diamond Ore at (64, 7, 36)
+[08jan.2025 14:21:48.235] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (65, 97, 37)
+[08jan.2025 14:21:48.236] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (65, 64, 37)
+[08jan.2025 14:21:48.236] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (65, 63, 37)
+[08jan.2025 14:21:48.236] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (65, 51, 37)
+[08jan.2025 14:21:48.237] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (65, 50, 37)
+[08jan.2025 14:21:48.237] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (65, 49, 37)
+[08jan.2025 14:21:48.237] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (65, 45, 37)
+[08jan.2025 14:21:48.237] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (65, 44, 37)
+[08jan.2025 14:21:48.238] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (65, 35, 37)
+[08jan.2025 14:21:48.397] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (66, 97, 38)
+[08jan.2025 14:21:48.397] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (66, 96, 38)
+[08jan.2025 14:21:48.398] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (66, 95, 38)
+[08jan.2025 14:21:48.398] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (66, 94, 38)
+[08jan.2025 14:21:48.399] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (66, 50, 38)
+[08jan.2025 14:21:48.606] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (67, 94, 39)
+[08jan.2025 14:21:48.606] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (67, 93, 39)
+[08jan.2025 14:21:48.636] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (67, 94, 39)
+[08jan.2025 14:21:48.636] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (67, 93, 39)
+[08jan.2025 14:21:48.680] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (67, 94, 39)
+[08jan.2025 14:21:48.681] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (67, 93, 39)
+[08jan.2025 14:21:48.836] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] No valuables Found!
+[08jan.2025 14:21:49.130] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (70, 94, 42)
+[08jan.2025 14:21:49.131] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (70, 93, 42)
+[08jan.2025 14:21:49.284] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (70, 94, 43)
+[08jan.2025 14:21:49.284] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (70, 93, 43)
+[08jan.2025 14:21:49.382] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (70, 94, 42)
+[08jan.2025 14:21:49.383] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (70, 93, 42)
+[08jan.2025 14:21:49.485] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (70, 94, 43)
+[08jan.2025 14:21:49.485] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (70, 93, 43)
+[08jan.2025 14:21:49.585] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (71, 94, 45)
+[08jan.2025 14:21:49.585] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (71, 93, 45)
+[08jan.2025 14:21:49.586] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Iron Ore at (71, -39, 45)
+[08jan.2025 14:21:49.586] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Iron Ore at (71, -40, 45)
+[08jan.2025 14:21:49.586] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Redstone Ore at (71, -49, 45)
+[08jan.2025 14:21:49.586] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Redstone Ore at (71, -50, 45)
+[08jan.2025 14:21:49.686] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (72, 45, 44)
+[08jan.2025 14:21:49.686] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (72, 44, 44)
+[08jan.2025 14:21:49.686] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Redstone Ore at (72, -47, 44)
+[08jan.2025 14:21:49.686] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Redstone Ore at (72, -49, 44)
+[08jan.2025 14:21:49.686] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Redstone Ore at (72, -50, 44)
+[08jan.2025 14:21:49.831] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (72, 45, 44)
+[08jan.2025 14:21:49.831] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (72, 44, 44)
+[08jan.2025 14:21:49.831] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Redstone Ore at (72, -47, 44)
+[08jan.2025 14:21:49.831] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Redstone Ore at (72, -49, 44)
+[08jan.2025 14:21:49.831] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Redstone Ore at (72, -50, 44)
+[08jan.2025 14:21:49.935] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (73, 47, 45)
+[08jan.2025 14:21:50.036] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (73, 47, 46)
+[08jan.2025 14:21:50.036] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (73, 46, 46)
+[08jan.2025 14:21:50.036] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (73, 30, 46)
+[08jan.2025 14:21:50.036] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (73, 29, 46)
+[08jan.2025 14:21:50.036] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Iron Ore at (73, -3, 46)
+[08jan.2025 14:21:50.036] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Iron Ore at (73, -4, 46)
+[08jan.2025 14:21:50.382] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (74, 31, 49)
+[08jan.2025 14:21:50.383] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Iron Ore at (74, -54, 49)
+[08jan.2025 14:21:50.383] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Iron Ore at (74, -55, 49)
+[08jan.2025 14:21:50.484] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (74, 31, 49)
+[08jan.2025 14:21:50.484] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Iron Ore at (74, -54, 49)
+[08jan.2025 14:21:50.484] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Iron Ore at (74, -55, 49)
+[08jan.2025 14:21:50.588] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (74, 31, 49)
+[08jan.2025 14:21:50.588] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Iron Ore at (74, -54, 49)
+[08jan.2025 14:21:50.589] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Iron Ore at (74, -55, 49)
+[08jan.2025 14:21:50.688] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (75, 59, 49)
+[08jan.2025 14:21:50.689] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (75, 58, 49)
+[08jan.2025 14:21:50.689] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (75, 31, 49)
+[08jan.2025 14:21:50.794] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (75, 59, 49)
+[08jan.2025 14:21:50.794] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (75, 58, 49)
+[08jan.2025 14:21:50.794] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (75, 31, 49)
+[08jan.2025 14:21:50.938] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (75, 59, 50)
+[08jan.2025 14:21:50.938] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (75, 58, 50)
+[08jan.2025 14:21:50.938] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Gold Ore at (75, -10, 50)
+[08jan.2025 14:21:51.042] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (75, 25, 51)
+[08jan.2025 14:21:51.042] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (75, 24, 51)
+[08jan.2025 14:21:51.042] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Lapis Lazuli Ore at (75, 2, 51)
+[08jan.2025 14:21:51.137] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (76, 102, 52)
+[08jan.2025 14:21:51.137] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (76, 101, 52)
+[08jan.2025 14:21:51.137] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (76, 68, 52)
+[08jan.2025 14:21:51.137] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (76, 26, 52)
+[08jan.2025 14:21:51.137] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (76, 25, 52)
+[08jan.2025 14:21:51.138] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (76, 24, 52)
+[08jan.2025 14:21:51.138] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (76, 23, 52)
+[08jan.2025 14:21:51.138] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Gold Ore at (76, -49, 52)
+[08jan.2025 14:21:51.257] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (76, 102, 52)
+[08jan.2025 14:21:51.257] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (76, 101, 52)
+[08jan.2025 14:21:51.258] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (76, 68, 52)
+[08jan.2025 14:21:51.258] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (76, 26, 52)
+[08jan.2025 14:21:51.259] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Iron Ore at (76, 25, 52)
+[08jan.2025 14:21:51.259] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (76, 24, 52)
+[08jan.2025 14:21:51.259] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Copper Ore at (76, 23, 52)
+[08jan.2025 14:21:51.259] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Deepslate Gold Ore at (76, -49, 52)
+[08jan.2025 14:21:51.503] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (76, 102, 54)
+[08jan.2025 14:21:51.504] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (76, 101, 54)
+[08jan.2025 14:21:51.594] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (76, 102, 54)
+[08jan.2025 14:21:51.594] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (76, 101, 54)
+[08jan.2025 14:21:51.694] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (76, 102, 54)
+[08jan.2025 14:21:51.694] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (76, 101, 54)
+[08jan.2025 14:21:51.735] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (76, 102, 54)
+[08jan.2025 14:21:51.735] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (76, 101, 54)
+[08jan.2025 14:21:51.836] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (76, 102, 54)
+[08jan.2025 14:21:51.836] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (76, 101, 54)
+[08jan.2025 14:21:51.932] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (76, 102, 54)
+[08jan.2025 14:21:51.933] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (76, 101, 54)
+[08jan.2025 14:21:52.032] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (76, 102, 54)
+[08jan.2025 14:21:52.033] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (76, 101, 54)
+[08jan.2025 14:21:52.133] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (76, 102, 54)
+[08jan.2025 14:21:52.133] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (76, 101, 54)
+[08jan.2025 14:21:52.236] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (76, 102, 54)
+[08jan.2025 14:21:52.236] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (76, 101, 54)
+[08jan.2025 14:21:52.294] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (76, 102, 54)
+[08jan.2025 14:21:52.294] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (76, 101, 54)
+[08jan.2025 14:21:53.436] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (76, 102, 54)
+[08jan.2025 14:21:53.436] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (76, 101, 54)
+[08jan.2025 14:21:53.731] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (76, 102, 54)
+[08jan.2025 14:21:53.732] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (76, 101, 54)
+[08jan.2025 14:21:54.033] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (76, 102, 54)
+[08jan.2025 14:21:54.034] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (76, 101, 54)
+[08jan.2025 14:21:54.291] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (76, 102, 54)
+[08jan.2025 14:21:54.292] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (76, 101, 54)
+[08jan.2025 14:21:54.539] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (76, 102, 54)
+[08jan.2025 14:21:54.539] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (76, 101, 54)
+[08jan.2025 14:21:54.981] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (76, 102, 54)
+[08jan.2025 14:21:54.981] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (76, 101, 54)
+[08jan.2025 14:21:56.531] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (76, 102, 54)
+[08jan.2025 14:21:56.531] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Found Coal Ore at (76, 101, 54)
+[08jan.2025 14:22:07.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Set own game mode to Creative Mode]
+[08jan.2025 14:22:07.810] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Set own game mode to Creative Mode
+[08jan.2025 14:22:28.282] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[08jan.2025 14:22:28.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[testes]'/minecraft:overworld
+[08jan.2025 14:22:28.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[testes]'/minecraft:the_end
+[08jan.2025 14:22:28.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[testes]'/minecraft:the_nether
+[08jan.2025 14:22:45.782] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[08jan.2025 14:22:45.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[testes]'/minecraft:overworld
+[08jan.2025 14:22:45.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[testes]'/minecraft:the_end
+[08jan.2025 14:22:45.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[testes]'/minecraft:the_nether

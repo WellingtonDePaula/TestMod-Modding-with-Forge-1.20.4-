@@ -7,7 +7,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:meadow": "2025-01-05 13:17:13 -0300"
+      "minecraft:meadow": "2025-01-05 13:17:13 -0300",
+      "minecraft:dripstone_caves": "2025-01-08 14:15:39 -0300"
     },
     "done": false
   },

@@ -4,11 +4,7 @@
   "item.testmod.ash_pile": "Ash Pile",
   "item.testmod.sapphire": "Sapphire",
   "item.testmod.raw_sapphire": "Raw Sapphire",
-
-
-
-  "block.testmod.cum_block": "Block of Cum",
-  "block.testmod.ash_block": "Block of Ash",
+  "item.testmod.metal_detector": "Metal Detector",
 
   "block.testmod.sapphire_block": "Block of Sapphire",
   "block.testmod.raw_sapphire_block": "Block of Raw Sapphire",
