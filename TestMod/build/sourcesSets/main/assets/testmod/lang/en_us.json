@@ -5,15 +5,19 @@
   "item.testmod.sapphire": "Sapphire",
   "item.testmod.raw_sapphire": "Raw Sapphire",
   "item.testmod.metal_detector": "Metal Detector",
+  "item.testmod.strawberry": "Strawberry",
+  "item.testmod.pine_cone": "Pine Cone",
 
+  "block.testmod.ash_block": "Block of Ash",
   "block.testmod.sapphire_block": "Block of Sapphire",
   "block.testmod.raw_sapphire_block": "Block of Raw Sapphire",
   "block.testmod.sound_block": "Block of Sound",
-
   "block.testmod.sapphire_ore": "Sapphire ore",
   "block.testmod.nether_sapphire_ore": "Nether Sapphire ore",
   "block.testmod.deepslate_sapphire_ore": "Deepslate Sapphire ore",
   "block.testmod.end_stone_sapphire_ore": "End Stone Sapphire ore",
+
+  "tooltip.testmod.metal_detector.tooltip": "Finds ores underground",
 
 
   "creativetab.test_tab": "TestMod :)"

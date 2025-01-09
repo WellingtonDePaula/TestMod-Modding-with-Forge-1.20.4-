@@ -12,3 +12,30 @@
 /gamemode creative
 /gamemode survival
 /gamemode creative
+/gamemode survival
+/effect give @s minecraft:hunger 10 3
+/effect give @s minecraft:hunger 5 20
+/effect give @s minecraft:hunger 5 100
+/effect give @s minecraft:hunger 100 255
+/gamemode creative
+/effect clear @a
+/tag
+/tag Dev list
+/tag @a
+/tag @a list
+/tag forge:ores
+/tag forge:ores list
+/tag /tag list blocks
+/tag list blocks
+/tag blocks list
+/tag list add a
+/tag blocks forge:ores
+/give @s minecraft:debug_stick
+/execute at @e[tag=forgeores] run tp @s
+/execute at @e[tag=ores] run tp @s
+/execute at @e[tag=iron] run tp @s
+/execute at @s run tp @e[tag=iron]
+/execute at @s run tp @e[tag=iron] 62.52 118.81 57.18
+/execute at @s run tp @e[tag=iron] 62.52 118.81 57.18 facing 66.00 119.61 57.65
+/execute at @s run tp @e[tag=ore] 62.52 118.81 57.18 facing 66.00 119.61 57.65
+/execute at @s run tp @e[tag=ores] 62.52 118.81 57.18 facing 66.00 119.61 57.65
